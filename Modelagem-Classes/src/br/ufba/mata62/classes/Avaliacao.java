@@ -3,15 +3,15 @@ package br.ufba.mata62.classes;
 import java.util.Date;
 
 public class Avaliacao {
-	private Aluno aluno;
+	private Discente aluno;
 	private Trabalho trabalho;
 	private Date dataLimite;
 	private FormularioAvaliacao formularioAvaliacao;
 	
-	public Aluno getAluno() {
+	public Discente getAluno() {
 		return aluno;
 	}
-	public Avaliacao setAluno(Aluno aluno) {
+	public Avaliacao setAluno(Discente aluno) {
 		this.aluno = aluno;
 		return this;
 	}

@@ -1,15 +1,17 @@
 package br.ufba.mata62.classes;
 
+import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-import br.ufba.mata62.classes.papel.Estudante;
-
-public class Aluno implements Estudante {
+public class Discente {
 	private String nome;
 	private String matricula;
 	private Date ingresso;
 	private Trabalho trabalho;
+	private String foto;
+	private List<Contato> contatos = new ArrayList<>();
+	
 	public String getNome() {
 		return nome;
 	}
@@ -34,16 +36,17 @@ public class Aluno implements Estudante {
 	public void setTrabalho(Trabalho trabalho) {
 		this.trabalho = trabalho;
 	}
+	public String getFoto() {
+		return foto;
+	}
+	public void setFoto(String foto) {
+		this.foto = foto;
+	}
+	public List<Contato> getContatos() {
+		return contatos;
+	}
+	public void setContatos(List<Contato> contatos) {
+		this.contatos = contatos;
+	}
 	
-	@Override
-	public List<Orientando> getListaTrabalhosOrientados(boolean semestreCorrente) {
-		// TODO Auto-generated method stub
-		return null;
-	}
-	@Override
-	public List<Trabalho> buscarAreaInteresseTrabalho(String areaInteresse) {
-		// TODO Auto-generated method stub
-		return null;
-	}
-
 }
