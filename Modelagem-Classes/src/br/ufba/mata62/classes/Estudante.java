@@ -11,7 +11,7 @@ public class Estudante extends Discente {
 		return getListaTrabalhosOrientados(false);
 	}
 	
-	private List<Estudante> getListaTrabalhosOrientados(boolean semestreCorrente) {
+	public List<Estudante> getListaTrabalhosOrientados(boolean semestreCorrente) {
 		return null;
 	}
 

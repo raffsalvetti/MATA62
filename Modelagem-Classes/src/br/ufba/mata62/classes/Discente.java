@@ -8,7 +8,6 @@ public class Discente {
 	private String nome;
 	private String matricula;
 	private Date ingresso;
-	private Trabalho trabalho;
 	private String foto;
 	private List<Contato> contatos = new ArrayList<>();
 	
@@ -29,12 +28,6 @@ public class Discente {
 	}
 	public void setIngresso(Date ingresso) {
 		this.ingresso = ingresso;
-	}
-	public Trabalho getTrabalho() {
-		return trabalho;
-	}
-	public void setTrabalho(Trabalho trabalho) {
-		this.trabalho = trabalho;
 	}
 	public String getFoto() {
 		return foto;

@@ -3,12 +3,11 @@ package br.ufba.mata62.classes;
 import java.util.List;
 
 import br.ufba.mata62.classes.papel.Orientado;
+import br.ufba.mata62.classes.papel.Orientador;
 
 public class Orientando extends Discente implements Orientado {
-	//List<Estudante> getListaTrabalhosOrientados(boolean semestreCorrente);
 	
 	private Professor orientador;
-	private Trabalho trabalho;
 
 	public Professor getOrientador() {
 		return orientador;
@@ -18,23 +17,63 @@ public class Orientando extends Discente implements Orientado {
 		this.orientador = orientador;
 	}
 
-	public Trabalho getTrabalho() {
-		return trabalho;
+	@Override
+	public Trabalho listarInformacoesTrabalhoSemestre() {
+		// TODO Auto-generated method stub
+		return null;
 	}
 
-	public void setTrabalho(Trabalho trabalho) {
-		this.trabalho = trabalho;
+	@Override
+	public void atualizarVisibilidadePerfil() {
+		// TODO Auto-generated method stub
+		
 	}
 
-//	@Override
-//	public List<Estudante> getListaTrabalhosOrientados(boolean semestreCorrente) {
-//		// TODO Auto-generated method stub
-//		return null;
-//	}
+	@Override
+	public void adicionarInformacoesTrabalho() {
+		// TODO Auto-generated method stub
+		
+	}
 
-//	@Override
-//	public List<Trabalho> buscarAreaInteresseTrabalho(String areaInteresse) {
-//		// TODO Auto-generated method stub
-//		return null;
-//	}
+	@Override
+	public void verificarNotificacoes() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void responderComentariosOrientador() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void submeterTrabalhoFinal() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void combinarReuniao(List<Orientador> orientadores) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void verApresentacoesAgendadasPorOrientador(Orientador orientador) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void sugerirHorarioApresentacao(String horario) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void verInformacaoBancaOrientadora(Trabalho trabalho) {
+		// TODO Auto-generated method stub
+		
+	}
 }
