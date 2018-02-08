@@ -1,0 +1,16 @@
+Cenario 1
+- usuario visualiza perfil de professor do curso
+- usuario escolhe orientador de tcc
+- usuario lista area de interesse em ordem alfabetica
+- usuario seleciona pelo menos 1 area de interesse (pode selecionar mais de uma area)
+- usuario busca orientador por area de interesse selecionada
+
+Cenario 2
+- usuario visualiza perfil de professor
+- perfil de professor mostra areas de interesse do professor
+- perfil de professor mostra lista de titulo e anos dos tccs que o professor orientou em anos anteriores
+- ao clicar numa tcc da lista, o usuario pode ver o autor e resumo de cada tcc
+
+Cenario 3
+- o usuario marca a area de interesse no seu perfil
+- perfil de usuario possui matricula
