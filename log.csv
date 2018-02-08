@@ -1,41 +1,47 @@
-commit f668919d44f90a8692dca181035e5ecf47ae5d5c
-Author: Raffaello <raffaello.salvetti@gmail.com>
-Date:   Wed Feb 7 22:20:48 2018 -0300
-
-    diagrama de classe foi organizado
-
-commit 6c611c659253e9838045099b09dc1e16b846d01c
-Author: Raffaello <raffaello.salvetti@gmail.com>
-Date:   Tue Dec 26 21:26:56 2017 -0300
-
-    bla bla
-
-commit b8bdd6b992f12b6701f2169b6923ff245a95e3c8
-Author: Raffaello <raffaello.salvetti@gmail.com>
-Date:   Tue Dec 26 21:26:44 2017 -0300
-
-    bla bla
-
-commit 254124b4b064e18a0e975f532e1a15eb6183bea0
-Author: Raffaello Salvetti <raffaello.salvetti@gmail.com>
-Date:   Tue Nov 28 23:51:21 2017 -0300
-
-    Adicionado interfaces ao diagrama UML
-
-commit 5a2b798893e9f38d223041d3f1fc8be14a195535
-Author: Raffaello Salvetti <raffaello.salvetti@gmail.com>
-Date:   Tue Nov 21 20:22:00 2017 -0300
-
-    modificado nomenclatura e relacoes + adicionado requisitos
-
-commit d6ef715b00be00b641da37670b36dc6248958a78
-Author: Raffaello Salvetti <raffaello.salvetti@gmail.com>
-Date:   Tue Nov 21 17:33:28 2017 -0300
-
-    adicionado exemplo de modelagem de classes para programa de gerencia de tcc
-
-commit add2c385ae2784075c6c2a8da959e505c66c6e79
-Author: Raffaello Salvetti <raffaello.salvetti@gmail.com>
-Date:   Mon Nov 20 13:37:55 2017 -0300
-
-    compartilhando projetos
+* commit c3c26a6831e6fbb4e918886ce4b82d014c40a042
+| Author: Raffaello <raffaello.salvetti@gmail.com>
+| Date:   Wed Feb 7 22:26:02 2018 -0300
+| 
+|     adicionado log.csv como teste de branch no git
+|  
+* commit f668919d44f90a8692dca181035e5ecf47ae5d5c
+| Author: Raffaello <raffaello.salvetti@gmail.com>
+| Date:   Wed Feb 7 22:20:48 2018 -0300
+| 
+|     diagrama de classe foi organizado
+|  
+* commit 6c611c659253e9838045099b09dc1e16b846d01c
+| Author: Raffaello <raffaello.salvetti@gmail.com>
+| Date:   Tue Dec 26 21:26:56 2017 -0300
+| 
+|     bla bla
+|  
+* commit b8bdd6b992f12b6701f2169b6923ff245a95e3c8
+| Author: Raffaello <raffaello.salvetti@gmail.com>
+| Date:   Tue Dec 26 21:26:44 2017 -0300
+| 
+|     bla bla
+|  
+* commit 254124b4b064e18a0e975f532e1a15eb6183bea0
+| Author: Raffaello Salvetti <raffaello.salvetti@gmail.com>
+| Date:   Tue Nov 28 23:51:21 2017 -0300
+| 
+|     Adicionado interfaces ao diagrama UML
+|  
+* commit 5a2b798893e9f38d223041d3f1fc8be14a195535
+| Author: Raffaello Salvetti <raffaello.salvetti@gmail.com>
+| Date:   Tue Nov 21 20:22:00 2017 -0300
+| 
+|     modificado nomenclatura e relacoes + adicionado requisitos
+|  
+* commit d6ef715b00be00b641da37670b36dc6248958a78
+| Author: Raffaello Salvetti <raffaello.salvetti@gmail.com>
+| Date:   Tue Nov 21 17:33:28 2017 -0300
+| 
+|     adicionado exemplo de modelagem de classes para programa de gerencia de tcc
+|  
+* commit add2c385ae2784075c6c2a8da959e505c66c6e79
+  Author: Raffaello Salvetti <raffaello.salvetti@gmail.com>
+  Date:   Mon Nov 20 13:37:55 2017 -0300
+  
+      compartilhando projetos
